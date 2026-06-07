@@ -1,0 +1,331 @@
+title,path_to_fulltext,rejected_by_fulltext_review,fulltext_review_reason
+Synergistic perception: Fusing expert knowledge and foundation models for semi-supervised mammogram segmentation,1-s2.0-S1746809425011449-main.pdf,False,
+Automating the Observer OPTION-5 measure of shared decision making: Assessing validity by comparing large language models to human ratings,1-s2.0-S0738399125007293-main.pdf,False,
+LLMs for Question-Answer and Synthetic Data Generation and Evaluation,978-3-031-98284-2_2.pdf,False,
+Enhancing Medical Image Analysis: A Pipeline Combining Synthetic Image Generation and Super-Resolution,978-3-031-99568-2_10.pdf,False,
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer,s41467-025-57283-x.pdf,False,
+"A preliminary investigation into the potential, pitfalls, and limitations of large language models for mammography interpretation",12672_2025_Article_2005.pdf,True,Brief communication lacks novelty
+"Evaluating large language models for surgical chart review of second stage implant-based breast reconstruction: a comparative analysis of manual review, GPT-3.5 Turbo, and GPT-4 Turbo",s00238-025-02274-w.pdf,True,Short paper lacks novelty
+Benchmarking LLM chatbots’ oncological knowledge with the Turkish Society of Medical Oncology’s annual board examination questions,12885_2025_Article_13596.pdf,True,Short papers & brief model comparison not medical application
+PM2: A new prompting multi-modal model paradigm for few-shot medical image classification,1-s2.0-S0169260725004596-main.pdf,False,
+Pancancer outcome prediction via a unified weakly supervised deep learning model,s41392-025-02374-w.pdf,True,General clinical no direct breast cancer; Focus on DL methods not GenAI specific
+"Exploring the use of large language models for classification, clinical interpretation, and treatment recommendation in breast tumor patient records",s41598-025-16999-y.pdf,False,
+MedCLIP-SAMv2: Towards universal text-driven medical image segmentation,1-s2.0-S1361841525002968-main.pdf,False,
+Can machine translation match human expertise? Quantifying the performance of large language models in the translation of patient-reported outcome measures (PROMs),s41687-025-00926-w.pdf,False,
+LLM-powered breast cancer staging from PET/CT reports: a comparative performance study,1-s2.0-S1386505625002709-main.pdf,False,
+Implementing a chatbot to promote hereditary breast & ovarian cancer genetic screening in women’s health: identifying barriers and facilitators to screening adoption,s12889-025-23488-4.pdf,False,
+Large language model trained on clinical oncology data predicts cancer progression,s41746-025-01780-2.pdf,False,
+A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules,s41467-025-60763-9.pdf,False,
+Artificial intelligence-assisted chatbot: impact on breastfeeding outcomes and maternal anxiety,s12884-025-07753-3.pdf,True,Not related to surgical planning scope
+Integrating intratumor-peritumor implicit correlation and deep semantic features for ultrasound breast cancer diagnosis,1-s2.0-S1746809425005282-main.pdf,False,
+Iterative refinement and goal articulation to optimize large language models for clinical information extraction,s41746-025-01686-z.pdf,False,
+Building a unified model for drug synergy analysis powered by large language models,s41467-025-59822-y.pdf,False,
+Predicting Nottingham grade in breast cancer digital pathology using a foundation model,s13058-025-02019-4.pdf,False,
+A clinical benchmark of public self-supervised pathology foundation models,s41467-025-58796-1.pdf,False,
+Bootstrapping BI-RADS classification using large language models and transformers in breast magnetic resonance imaging reports,42492_2025_Article_189.pdf,False,
+Using Generative AI to Extract Structured Information from Free Text Pathology Reports,10916_2025_Article_2167.pdf,True,Genral Medical application not Breast Cancer specific
+SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation,1-s2.0-S0097849325001827-main.pdf,False,
+Ultrasound report generation with fuzzy knowledge and multi-modal large language model,1-s2.0-S0957417425021748-main.pdf,False,
+When does ChatGPT refer someone to a plastic surgeon?,1-s2.0-S1748681525004711-main.pdf,True,Short communication no distinctive novelty
+End-to-end breast cancer radiotherapy planning via LMMs with consistency embedding,1-s2.0-S1361841525001938-main.pdf,False,
+Large language models enable tumor-type classification and localization of cancers of unknown primary from genomic data,1-s2.0-S2666379125004057-main.pdf,False,
+Generative Artificial Intelligence (AI) to Uncover Insights From Breast Cancer Patients’ Perceptions to Mindfulness-Based Stress Reduction (MBSR) Interventions,generative_artificial_intelligence__ai__to_uncover.8.pdf,False,
+GPT for medical entity recognition in Spanish,s11042-024-19209-5.pdf,True,Out of scope for medical application
+Agentic RAG-Driven Multi-Omics Analysis for PI3K/AKT Pathway Deregulation in Precision Medicine,algorithms-18-00545-v2.pdf,False,
+Evaluating the Concordance Between ChatGPT and Multidisciplinary Teams in Breast Cancer Treatment Planning: A Study from Bosnia and Herzegovina,jcm-14-06460.pdf,False,
+Transformer-Based HER2 Scoring in Breast Cancer: Comparative Performance of a Foundation and a Lightweight Model,diagnostics-15-02131.pdf,False,
+Evaluating Large Language Models for imaging modality selection: Potential to reduce unnecessary contrast agent use and radiation exposure,1-s2.0-S0899707125001731-main.pdf,False,
+De novo design and bioactivity prediction of mitotic kinesin Eg5 inhibitors using MPNN and LSTM-based transfer learning,1-s2.0-S0010482525010236-main.pdf,True,Not focused on GenAI or breast cancer
+Artificial Intelligence Language Models to Translate Professional Radiology Mammography Reports Into Plain Language – Impact on Interpretability and Perception by Patients,1-s2.0-S1076633225005434-main.pdf,False,
+Appropriateness of acute breast symptom recommendations provided by ChatGPT,1-s2.0-S0899707125001494-main.pdf,False,
+"Classifying the clinical significance of common breast pain symptoms using a large language model, ChatGPT (GPT-4)",1-s2.0-S0899707125001251-main.pdf,False,
+"Assessing the quality of Japanese online breast cancer treatment information using large language models: a comparison of ChatGPT, Claude, and expert evaluations",s12282-025-01719-1.pdf,True,Comparison over models rather than valuable surgical planning phase
+"Can ""ChatGPT Prompt Formula"" Support Patients with Breast Cancer in Information Needs Inquery?",SHTI-329-SHTI251355.pdf,True,Short 2 page paper with no valued contribution
+CancerCare Navigator: Optimizing Oncology Care with RAG,SHTI-329-SHTI251284.pdf,True,Short 2 page paper with no valued contribution
+Comparison of a Specialized Large Language Model with GPT-4o for CT and MRI Radiology Report Summarization,ONLINE,True,Mostly model comparison with less valuable surgical planning phase
+Improved Osteoporosis Prediction in Breast Cancer Patients Using a Novel Semi-Foundational Model,10278_2024_Article_1337.pdf,False,
+Assessing the Accuracy and Readability of Large Language Model Guidance for Patients on Breast Cancer Surgery Preparation and Recovery,jcm-14-05411.pdf,False,
+"Primary care patient and clinician attitudes about population genomic screening, informed decision-making needs, and the potential for Chatbot technology",Journal of Genetic Counseling - 2025 - Moultrie - Primary care patient and clinician attitudes about population genomic.pdf,True,Out of scope
+Patients prefer artificial intelligence large language model-generated responses to those prepared by the American College of Mohs Surgery: A double-blind comparative study using ChatGPT and Google Gemini,1-s2.0-S2666328725000409-main.pdf,True,Short 3 page paper with no valued contribution
+Multimodal deep learning for enhanced breast cancer diagnosis on sonography,1-s2.0-S0010482525008170-main.pdf,True,Not focused on GenAI
+Ionic Cell Microscopy: A new modality for visualizing cells using microfluidic impedance cytometry and generative artificial intelligence,1-s2.0-S2590137025000469-main.pdf,False,
+Suitability of ChatGPT as a Source of Patient Information for Screening Mammography,10.1177_15248399241285060.pdf,False,
+Using Open-Source Large Language Models to Identify Access to Germline Genetic Testing in Veterans with Breast Cancer from Unstructured Text,cci-9-e2400263.pdf,False,
+A visual–omics foundation model to bridge histopathology with spatial transcriptomics,s41592-025-02707-1.pdf,False,
+Evaluating Large Language Model's accuracy in current procedural terminology coding given operative note templates across various plastic surgery sub-specialties,1-s2.0-S1748681525002694-main.pdf,True,Short communications has no distinctive depth
+Patient-Centered Research Through Artificial Intelligence to Identify Priorities in Cancer Care,jamaoncology_kim_2025_oi_250011_1749251717.65472.pdf,False,
+Improving polygenic prediction from whole-genome sequencing data by leveraging predicted epigenomic features,pnas.202419202.pdf,False,
+Scientific hypothesis generation by large language models: Laboratory validation in breast cancer treatment,rsif.2024.0674.pdf,False,
+MammoVLM: A generative large vision–language model for mammography-related diagnostic assistance,1-s2.0-S1566253525000715-main.pdf,False,
+Open-Source Hybrid Large Language Model Integrated System for Extraction of Breast Cancer Treatment Pathway From Free-Text Clinical Notes,ONLINE,True,Could not retrieve the work
+Accuracy and Reproducibility of ChatGPT Responses to Breast Cancer Tumor Board Patients,ONLINE,True,Could not retrieve the work
+Evaluating Google Gemini's AI generated responses to questions after breast reconstruction,1-s2.0-S1748681525002645-main.pdf,True,Short communication lacks novelty
+Large language models in breast cancer reconstruction: A framework for patient-specific recovery and predictive insights,1-s2.0-S2472630325000433-main.pdf,False,
+Enhancing radiomics features via a large language model for classifying benign and malignant breast tumors in mammography,1-s2.0-S0169260725001828-main.pdf,False,
+A segment anything model-guided and match-based semi-supervised segmentation framework for medical imaging,MP-52-4513.pdf,False,
+"AI Chatbot for Cancer Patient Support: Development and Evaluation Using Llama 3.1, Mistral 7B, and PHI 3B",SHTI-327-SHTI250494.pdf,True,Short 2 page paper with no valued contribution
+A Study on Breast Cancer Patient Care Using Chatbot and Video Education for Radiation Therapy: A Randomized Controlled Trial,1-s2.0-S0360301624037325-main.pdf,False,
+CfMethylPre: Deep transfer learning enhances cancer detection based on circulating cell-free DNA methylation profiling,bbaf303.pdf,True,Deep learning rather than GenAI
+Artificial Intelligence as a Potential Tool for Predicting Surgical Margin Status in Early Breast Cancer Using Mammographic Specimen Images,diagnostics-15-01276.pdf,False,
+Benchmarking pathology foundation models: Adaptation strategies and scenarios,1-s2.0-S0010482525003828-main.pdf,False,
+Flip Learning: Weakly supervised erase to segment nodules in breast ultrasound,1-s2.0-S1361841525000994-main.pdf,True,Not GenAI focused study
+Assessing the predictive accuracy of ChatGPT-based image analysis in forecasting long-term scar characteristics from 3-month assessments – A pilot study,1-s2.0-S174868152500186X-main.pdf,False,
+"Enhancing patient education in breast surgery: artificial intelligence-powered guidance for mastopexy, augmentation, reduction, and reconstruction",tbcr-06-12.pdf,False,
+Leveraging Guideline-Based Clinical Decision Support Systems with Large Language Models: A Case Study with Breast Cancer,a-2528-4299.pdf,False,
+MISTIC: a novel approach for metastasis classification in Italian electronic health records using transformers,12911_2025_Article_2994.pdf,True,Marginal novelty and less relevant to study scope
+When multiple instance learning meets foundation models: Advancing histological whole slide image analysis,1-s2.0-S1361841525000040-main.pdf,False,
+Performance of Artificial Intelligence Chatbots in Answering Clinical Questions on Japanese Practical Guidelines for Implant-based Breast Reconstruction,s00266-024-04515-y.pdf,False,
+Bridging Gaps in Cancer Care: Utilizing Large Language Models for Accessible Dietary Recommendations,nutrients-17-01176.pdf,True,Less relevant to breast cancer care in general
+"BIO25-024: Real-Time Clinical Trial Data Library in Non-Small Cell Lung (NSCLC), Prostate (PC), and Breast Cancer (BC) to Support Informed Treatment Decisions: Now a Reality With a Fine-Tuned Large Language Model (LLM)",,False,
+Evaluating text and visual diagnostic capabilities of large language models on questions related to the Breast Imaging Reporting and Data System Atlas 5th edition,DiagnIntervRadiol-31-2-111.pdf,False,
+Tissue concepts: Supervised foundation models in computational pathology,1-s2.0-S0010482524017062-main.pdf,False,
+"Using large language models (ChatGPT, Copilot, PaLM, Bard, and Gemini) in Gross Anatomy course: Comparative analysis",ONLINE,True,Less context relevant and more model comparative
+Large Language Models as Decision-Making Tools in Oncology: Comparing Artificial Intelligence Suggestions and Expert Recommendations,cci-9-e2400230.pdf,False,
+The Extent to Which Artificial Intelligence Can Help Fulfill Metastatic Breast Cancer Patient Healthcare Needs: A Mixed-Methods Study,curroncol-32-00145.pdf,True,Very low relevancy to the study scope
+NSSC: a neuro-symbolic AI system for enhancing accuracy of named entity recognition and linking from oncologic clinical notes,11517_2024_Article_3227.pdf,True,Low clinical and methodological relevancy
+A vision–language foundation model for precision oncology,s41586-024-08378-w.pdf,False,
+Self-improving generative foundation model for synthetic medical image generation and clinical applications,ONLINE,True,Not breast cancer specific
+The Potential of Gemini and GPTs for Structured Report Generation based on Free-Text 18F-FDG PET/CT Breast Cancer Reports,1-s2.0-S1076633224006159-main.pdf,False,
+Simulation training in mammography with AI-generated images: a multireader study,s00330-024-11005-x.pdf,False,
+Accelerating breast MRI acquisition with generative AI models,s00330-024-10853-x.pdf,False,
+Exploring Patient Data Requirements in Training Effective AI Models for MRI-Based Breast Cancer Classification,978-3-031-77789-9_8.pdf,False,
+Breast Cancer Molecular Subtyping from H&E Whole Slide Images Using Foundation Models and Transformers,978-3-031-77789-9_16.pdf,False,
+Multimodal Breast MRI Language-Image Pretraining (MLIP): An Exploration of a Breast MRI Foundation Model,978-3-031-77789-9_5.pdf,False,
+Multi-modal Longitudinal Representation Learning for Predicting Neoadjuvant Therapy Response in Breast Cancer Treatment,Multi-Modal_Longitudinal_Representation_Learning_for_Predicting_Neoadjuvant_Therapy_Response_in_Breast_Cancer_Treatment.pdf,False,
+Advancing breast cancer detection in ultrasound images using a novel hybrid ensemble deep learning model,1-s2.0-S2666521225000250-main.pdf,True,Not GenAI focused study
+Provision of Radiology Reports Simplified with Large Language Models to Patients with Cancer: Impact on Patient Satisfaction,ONLINE,True,Not Downloadable
+Patient2Trial: From patient to participant in clinical trials using large language models,1-s2.0-S2352914825000036-main.pdf,False,
+TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models,978-981-96-0908-6_3.pdf,False,
+Frozen Large-Scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,Frozen_Large-Scale_Pretrained_Vision-Language_Models_are_the_Effective_Foundational_Backbone_for_Multimodal_Breast_Cancer_Prediction.pdf,False,
+Evaluation of a Task-Specific Self-Supervised Learning Framework in Digital Pathology Relative to Transfer Learning Approaches and Existing Foundation Models,1-s2.0-S0893395224002163-main.pdf,True,Not GenAI focused study
+Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation,978-981-97-8496-7_24.pdf,False,
+Generative Artificial Intelligence Approaches for Synthesizing High-Fidelity Breast Thermal Images,978-3-031-76584-1_4.pdf,False,
+Out-of-distribution detection in digital pathology: Do foundation models bring the end to reconstruction-based approaches?,1-s2.0-S0010482524014124-main.pdf,False,
+Can ChatGPT generate surgical multiple-choice questions comparable to those written by a surgeon?,UBMC_38_2418752.pdf,True,Not Surgical planning task
+Multi-Organ Foundation Model for Universal Ultrasound Image Segmentation With Task Prompt and Anatomical Prior,Multi-Organ_Foundation_Model_for_Universal_Ultrasound_Image_Segmentation_With_Task_Prompt_and_Anatomical_Prior.pdf,False,
+Generative artificial intelligence as a source of breast cancer information for patients: Proceed with caution,Cancer - 2024 - Park - Generative artificial intelligence as a source of breast cancer information for patients Proceed.pdf,False,
+Data Augmentation for Medical Image Classification Based on Gaussian Laplacian Pyramid Blending With a Similarity Measure,Data_Augmentation_for_Medical_Image_Classification_Based_on_Gaussian_Laplacian_Pyramid_Blending_With_a_Similarity_Measure.pdf,True,Not Surgical planning task
+"Bridging Technology and Pretest Genetic Services: Quantitative Study of Chatbot Interaction Patterns, User Characteristics, and Genetic Testing Decisions",jmir-2025-1-e73391.pdf,False,
+Pathological Complete Response Classification on HER2-Positive Breast Cancer Patients with Double-View Graph Contrastive Learning,s41598-025-99496-6.pdf,False,
+Interpreting BI-RADS-Free Breast MRI Reports Using a Large Language Model: Automated BI-RADS Classification From Narrative Reports Using ChatGPT,1-s2.0-S1076633225007962-main.pdf,False,
+Evaluating a Chatbot as a Companion for Patients With Breast Cancer: Collaborative Pilot Study,cancer-2025-1-e68426.pdf,False,
+Generative AI in consumer health: leveraging large language models for health literacy and clinical safety with a digital health framework,fdgth-07-1616488.pdf,True,No decernable novelty
+Grounding DINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision–Language Models,Grounding_DINO-US-SAM_Text-Prompted_Multiorgan_Segmentation_in_Ultrasound_With_LoRA-Tuned_VisionLanguage_Models.pdf,False,
+"Natural language processing for local, regional, and distant breast cancer relapse identification in pathology reports",s10549-025-07801-8.pdf,False,
+Validation of a deep learning–based AI system for HER2-targeted breast cancer assessment using ultrasound imaging in a clinical setting,fonc-15-1639474.pdf,True,Not GenAI focused study
+Structured Report Generation for Breast Cancer Imaging Based on Large Language Modeling: A Comparative Analysis of GPT-4 and DeepSeek,1-s2.0-S1076633225007159-main.pdf,False,
+Portrayal of Cancer Patients in the Era of AI: A Content Analysis of Images Produced by Generative AI Tools,nihms-2124568.pdf,True,Out of Breast cancer surgical planning scope
+Evaluation of the Diagnostic Accuracy of Two AI Models for Analyzing Mammographic Images,eval-diag.pdf,True,Marginal novelty and fixated on model comparison not planning
+Hybrid framework for automated generation of mammography radiology reports,1-s2.0-S200103702500282X-main.pdf,False,
+The Use of ChatGPT-4.0 to Simplify Breast Pathology Reports: A Study on Readability and Accuracy,s10434-025-17860-2.pdf,True,Similar to previous works on report generation pathology
+"Reducing Global Breast Cancer Mortality with Early, Low-Cost Diagnosis Using Generative AI and Hybrid DL Architecture",Reducing_Global_Breast_Cancer_Mortality_with_Early_Low-Cost_Diagnosis_Using_Generative_AI_and_Hybrid_DL_Architecture.pdf,False,
+Parallel Multimodal Language Model: Enhanced Breast Nodule Diagnosis through Parallel Multimodal Representations and Large Language Models,Advanced Intelligent Systems - 2025 - Zheng - Parallel Multimodal Language Model Enhanced Breast Nodule Diagnosis through.pdf,False,
+Application of GANs for Augmentation of the Mammography Repository,ONLINE,True,Not Downloadable
+Fusion of Vision and Text Features for Breast Cancer Classification Using a Few-Shot Approach,Fusion_of_Vision_and_Text_Features_for_Breast_Cancer_Classification_Using_a_Few-Shot_Approach.pdf,False,
+Lesion-Aware Generative Artificial Intelligence for Virtual Contrast-Enhanced Mammography in Breast Cancer,Lesion-Aware_Generative_Artificial_Intelligence_fo.pdf,False,
+Comparison of ConvNeXt and Vision-Language Models for Breast Density Assessment in Screening Mammography,2506.13964v1.pdf,False,
+Using Large Language Model for Efficient Extraction of Treatment Discontinuation Information: A Study of Online Breast Cancer Community Posts,ONLINE,True,Not Surgical planning task
+Out-of-Distribution Detection in Point-of-Care Ultrasound Breast Imaging Using Variational Autoencoders,978-3-031-95911-0_9.pdf,False,
+Breast-CRAG: A Breast Cancer Large Language Model Leveraging Retrieval-Augmented Generation,978-3-031-95841-0_19.pdf,False,
+Do They Really Know? Evaluating Large Language Models’ Ability to Reference and Cite Oncology Guidelines,978-3-031-95841-0_6.pdf,False,
+Comparative analysis of convolutional neural networks and transformer architectures for breast cancer histopathological image classification,fmed-12-1606336.pdf,False,Not GenAI focused study
+Using a Large Language Model for Breast Imaging Reporting and Data System Classification and Malignancy Prediction to Enhance Breast Ultrasound Diagnosis: Retrospective Study,medinform-2025-1-e70924.pdf,False,
+MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention,2501.03839v1.pdf,False,
+Using Natural Language Processing to Explore Patient Perspectives on AI Avatars in Support Materials for Patients With Breast Cancer: Survey Study,ONLINE,True,Surveys are not part of review
+Chatbot for the Return of Positive Genetic Screening Results for Hereditary Cancer Syndromes: Prompt Engineering Project,cancer-2025-1-e65848.pdf,True,Viewpoints are subjective and have marginal novelty
+Enhancing Biomedical Image Segmentation with Fine-Tuned Segment Anything Model,978-3-031-90194-2_28.pdf,False,
+Exploring the potential of AI-powered applications for clinical decision-making in gynecologic oncology,Intl J Gynecology Obste - 2025 - Meyer - Exploring the potential of AI‐powered applications for clinical decision‐making.pdf,True,Not focused on breast cancer
+Large Language Models as a Consulting Hotline for Patients With Breast Cancer and Specialists in China: Cross-Sectional Questionnaire Study,medinform-2025-1-e66429.pdf,False,
+Personalized Support in Hereditary Breast and Ovarian Cancer After Genetic Counseling by the Chatbot-Based GENIE Mobile App: Proof-of-Concept Wizard of Oz Study,formative-v9-e69115.pdf,True,Marginal software novelty not GenAI
+"Visualizing cancer and survivorship with generative AI?—an exploration of breast, prostate, and pancreatic cancer imagery",s11764-025-01843-z.pdf,True,Marginal novelty
+Assessing Chemotherapy-Induced Peripheral Neuropathy in Postmenopausal Breast Cancer Patients Using Vibration Perception Threshold,Assessing Chemotherapy-Induced Peripheral Neuropathy in Postmenopausal Breast Cancer Patients Using Vibration Perception Threshold.pdf,True,Not GenAI focused study
+Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound,Visual_Prompting_and_Adaptation_of_Vision_Language_Models_for_Tumor_Classification_in_Breast_Ultrasound.pdf,False,
+Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets,Multi-Distribution_Mammogram_Classification_Leveraging_Clip_for_Enhanced_Generalization_Across_Diverse_Datasets.pdf,False,
+Deep Learning-Based Cosmetic Evaluation of Breast Cancer Conservative Treatment,Deep_Learning-Based_Cosmetic_Evaluation_of_Breast_Cancer_Conservative_Treatment.pdf,False,
+LLaVA-Mammo: Adapting LLaVA for Interactive and Interpretable Breast Cancer Assessment,ONLINE,True,Not Downloadable
+LLaVA-MultiMammo: Adapting Vision-Language Models for Explainable and Comprehensive Multiview Mammogram Analysis in Breast Cancer Assessment,ONLINE,True,Not downloadable
+Few-shot medical image classification with simple shape and texture text descriptors using vision-language models,o10734.pdf,False,
+Can ChatGPT detect breast cancer on mammography?,ONLINE,True,Similar to previous works on mammogram classification
+Enhancing Bidirectional Encoder Representations From Transformers (BERT) With Frame Semantics to Extract Clinically Relevant Information From German Mammography Reports: Algorithm Development and Validation,jmir-2025-1-e68427.pdf,True,Not GenAI focused study
+Development of a GPT-4–Powered Virtual Simulated Patient and Communication Training Platform for Medical Students to Practice Discussing Abnormal Mammogram Results With Patients: Multiphase Study,formative_v9i1e65670.pdf,False,
+Enhancing Physician-Patient Communication in Oncology Using GPT-4 Through Simplified Radiology Reports: Multicenter Quantitative Study,jmir-2025-1-e63786.pdf,False,
+Utility-based Analysis of Statistical Approaches and Deep Learning Models for Synthetic Data Generation With Focus on Correlation Structures: Algorithm Development and Validation,ai-2025-1-e65729.pdf,False,
+Aligning knowledge concepts to whole slide images for precise histopathology image analysis,s41746-024-01411-2.pdf,False,
+ChatGPT’s Agreement with the Recommendations from the 18th St. Gallen International Consensus Conference on the Treatment of Early Breast Cancer,cancers-16-04163.pdf,False,
+Evaluation of the integration of retrieval-augmented generation in large language model for breast cancer nursing care responses,s41598-024-81052-3.pdf,False,
+In-context learning enables multimodal large language models to classify cancer pathology images,s41467-024-51465-9.pdf,False,
+Probing clarity: AI-generated simplified breast imaging reports for enhanced patient comprehension powered by ChatGPT-4o,s41747-024-00526-1.pdf,False,
+"TECRR: a benchmark dataset of radiological reports for BI-RADS classification with machine learning, deep learning, and large language model baselines",s12911-024-02717-7.pdf,False,
+LLM-driven multimodal target volume contouring in radiation oncology,s41467-024-53387-y.pdf,False,
+ChatGPT for improving postoperative instructions in multiple fields of plastic surgery,1-s2.0-S174868152400531X-main.pdf,False,
+Validation of large language models for detecting pathologic complete response in breast cancer using population-based pathology reports,s12911-024-02677-y.pdf,False,
+Using AI-predicted protein structures as a reference to predict loss-of-function activity in tumor suppressor breast cancer genes,1-s2.0-S2001037024003283-main.pdf,True,Not GenAI focused study
+Harnessing Large Language Models for Structured Reporting in Breast Ultrasound: A Comparative Study of Open AI (GPT-4.0) and Microsoft Bing (GPT-4),1-s2.0-S0301562924002680-main.pdf,True,More model comparision and less GenAI novelty
+Evaluation of ChatGPT-Generated Educational Patient Pamphlets for Common Interventional Radiology Procedures,1-s2.0-S1076633224003076-main.pdf,True,Not Surgical planning task
+BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports,3688868.3689200.pdf,False,
+A pathology foundation model for cancer diagnosis and prognosis prediction,s41586-024-07894-z.pdf,False,
+"Proof-of-concept study of a small language model chatbot for breast cancer decision support – a transparent, source-controlled, explainable and data-secure approach",s00432-024-05964-3.pdf,False,
+FuseLinker: Leveraging LLM's pre-trained text embeddings and domain knowledge to enhance GNN-based link prediction on biomedical knowledge graphs,1-s2.0-S1532046424001485-main.pdf,False,
+A comparative study of large language model-based zero-shot inference and task-specific supervised classification of breast cancer pathology reports,ocae146.pdf,False,
+Quality of Video Content Related to Deep Inferior Epigastric Perforator Flap Breast Reconstruction: Social Media Platforms Versus Large Language Models,ONLINE,True,Not related to surgical planning scope
+"How do large language models answer breast cancer quiz questions? A comparative study of GPT-3.5, GPT-4 and Google Gemini",s11547-024-01872-1.pdf,True,More model comparision and less GenAI novelty
+Perforator Selection with Computed Tomography Angiography for Unilateral Breast Reconstruction: A Clinical Multicentre Analysis,medicina-60-01500.pdf,True,Medical focus and less GenAI
+Constructing a Large Language Model to Generate Impressions from Findings in Radiology Reports,zhang-et-al-2024-constructing-a-large-language-model-to-generate-impressions-from-findings-in-radiology-reports.pdf,False,
+Use of ChatGPT to Assign BI-RADS Assessment Categories to Breast Imaging Reports,haver-et-al-2024-use-of-chatgpt-to-assign-bi-rads-assessment-categories-to-breast-imaging-reports.pdf,True,Short 2 page paper with no decentable contribution
+Comparing Patient Perception and Physician's Records: Generative AI Performance Evaluation,SHTI-316-SHTI240503.pdf,False,
+Visualizing Future Breast Cancer Prognosis by Generative AI,SHTI-316-SHTI240516.pdf,True,Short paper with marginal novelty
+Automated Extraction of Patient-Centered Outcomes After Breast Cancer Treatment: An Open-Source Large Language Model–Based Toolkit,nihms-2024965.pdf,False,
+Utility and Comparative Performance of Current Artificial Intelligence Large Language Models as Postoperative Medical Support Chatbots in Aesthetic Surgery,sjae025.pdf,False,
+Evaluating Large Language Model (LLM) Performance on Established Breast Classification Systems,diagnostics-14-01491.pdf,False,
+A BERT-GNN Approach for Metastatic Breast Cancer Prediction Using Histopathology Reports,diagnostics-14-01365.pdf,True,High similarity to data extrction pathology works with marginal novelty
+Enhancing Medical Imaging Segmentation with GB-SAM: A Novel Approach to Tissue Segmentation Using Granular Box Prompts,cancers-16-02391-v2.pdf,False,
+Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology,diagnostics-14-01442-v2.pdf,False,
+Comparing Diagnostic Accuracy of Radiologists versus GPT-4V and Gemini Pro Vision Using Image Inputs from Diagnosis Please Cases,suh-et-al-2024-comparing-diagnostic-accuracy-of-radiologists-versus-gpt-4v-and-gemini-pro-vision-using-image-inputs.pdf,True,Marginal novelty and more method comparision
+Evolution of publicly available large language models for complex decision-making in breast cancer care,404_2024_Article_7565.pdf,False,
+The Application of Large Language Models for Radiologic Decision Making,1-s2.0-S1546144024000565.pdf,False,
+Performance of Large Language Models on Medical Oncology Examination Questions,ONLINE,True,Not brest surgical planning scope
+Enhanced AI for Science using Diffusion-based Generative AI - A Case Study on Ultrasound Computing Tomography,3649476.3660360.pdf,False,
+Ensemble Deep Learning-Based Image Classification for Breast Cancer Subtype and Invasiveness Diagnosis from Whole Slide Image Histopathology,cancers-16-02222.pdf,True,Not GenAI focused study
+Chat-ePRO: Development and pilot study of an electronic patient-reported outcomes system based on ChatGPT,1-s2.0-S1532046424000698-main.pdf,False,
+Evaluating Artificial Intelligence's Role in Teaching the Reporting and Interpretation of Computed Tomographic Angiography for Preoperative Planning of the Deep Inferior Epigastric Artery Perforator Flap,1-s2.0-S2352587824000433-main.pdf,True,Marginal novelty and more comparision
+Stochastic Spin-Orbit-Torque Synapse and its Application in Uncertainty Quantification,Adv Elect Materials - 2024 - Wang - Stochastic Spin‐Orbit‐Torque Synapse and its Application in Uncertainty Quantification.pdf,True,Not GenAI focused study
+The role of artificial intelligence in informed patient consent for radiotherapy treatments—a case report,s00066-023-02190-7.pdf,True,Case reports with small advantages and novelty
+"Identifying social determinants of health from clinical narratives: A study of performance, documentation ratio, and potential bias",1-s2.0-S1532046424000601-main.pdf,True,Not GenAI focused study
+Evaluation of ChatGPT and Google Bard Using Prompt Engineering in Cancer Screening Algorithms,1-s2.0-S1076633223006189-main.pdf,True,More model comparision and less GenAI novelty
+Unleashing the power of AI: Assessing the reliability of ChatGPT in disseminating breast cancer awareness,JEHP-13-172.pdf,True,No perceptible novelty
+"BI-RADS Category Assignments by GPT-3.5, GPT-4, and Google Bard: A Multilanguage Study",radiol.232133.pdf,True,Not much application novelty and out of scope
+"Evaluation of large language models in breast cancer clinical scenarios: a comparative analysis based on ChatGPT-3.5, ChatGPT-4.0, and Claude2",js9-110-1941.pdf,False,
+An LLM supported approach to ontology and knowledge graph construction,An_LLM_supported_approach_to_ontology_and_knowledge_graph_construction.pdf,True,Not much breast surgical planning novelty
+Extracting Structure Information from Narrative Medical Reports based on LLMs,Extracting_Structure_Information_from_Narrative_Medical_Reports_based_on_LLMs.pdf,False,
+MedGen: An Explainable Multi-Agent Architecture for Clinical Decision Support through Multisource Knowledge Fusion,MedGen_An_Explainable_Multi-Agent_Architecture_for_Clinical_Decision_Support_through_Multisource_Knowledge_Fusion.pdf,False,
+"PICOAS: A clinical knowledge linking model for delivering up-to-date, interrelated, and personalized decision support",PICOAS_a_clinical_knowledge_linking_model_for_delivering_up-to-date_interrelated_and_personalized_decision_support.pdf,False,
+Evaluating ChatGPT’s diagnostic potential for pathology images,fmed-11-1507203.pdf,True,Similar to previous works on pathology with LLM inference
+Wonder at Chemotimelines 2024: MedTimeline: An End-to-End NLP System for Timeline Extraction from Clinical Narratives,Wonder_at_Chemotimelines_2024_MedTimeline_An_End-t.pdf,True,Short paper with not much GenAI novelty
+Accelerating Complex Disease Treatment Through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer,Accelerating_Complex_Disease_Treatment_Through_Network_Medicine_and_GenAI_A_Case_Study_on_Drug_Repurposing_for_Breast_Cancer.pdf,False,
+Reinforcement Explainability of ChatGPT Prompts by Embedding Breast Cancer Self-Screening Rules into AI Responses,Reinforcement_Explainability_of_ChatGPT_Prompts_by_Embedding_Breast_Cancer_Self-Screening_Rules_into_AI_Responses.pdf,False,
+IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials,2024.semeval-1.201.pdf,True,More model comparision and less GenAI novelty
+LlamaMTS: Optimizing Metastasis Detection with Llama Instruction Tuning and BERT-Based Ensemble in Italian Clinical Reports,2024.clinicalnlp-1.13.pdf,False,
+Automated Identification of Breast Cancer Relapse in Computed Tomography Reports Using Natural Language Processing,cci-8-e2400107.pdf,False,
+Overview of the 2024 Shared Task on Chemotherapy Treatment Timeline Extraction,2024.clinicalnlp-1.53.pdf,False,
+Deep Learning Based Discovery of New Breast Cancer Stages: StyleGAN3 and Swin Transformer Approach,Deep_Learning_Based_Discovery_of_New_Breast_Cancer_Stages_StyleGAN3_and_Swin_Transformer_Approach.pdf,False,
+Evaluating the Accuracy of Large Language Model (ChatGPT) in Providing Information on Metastatic Breast Cancer,apb-14-499.pdf,False,
+Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography,978-3-031-72390-2_59.pdf,False,
+MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation,978-3-031-72390-2_60.pdf,False,
+Ontology extension by online clustering with large language model agents,fdata-07-1463543.pdf,False,
+Assessing the performance of large language models (LLMs) in answering medical questions regarding breast cancer in the Chinese context,10.1177_20552076241284771.pdf,False,
+Automatic detection of contextual laterality in Mammography Reports using Large Language Models,Automatic_detection_of_contextual_laterality_in_Mammography_Reports_using_Large_Language_Models.pdf,False,
+SEETrials: Leveraging large language models for safety and efficacy extraction in oncology clinical trials,1-s2.0-S2352914824001461-main.pdf,False,
+Breast Cancer Detection Using Transfer Learning with DCGAN for dataset imbalance,Breast_Cancer_Detection_Using_Transfer_Learning_with_DCGAN_for_dataset_imbalance.pdf,False,
+InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation,InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation.pdf,False,
+Breast Cancer Image Classification: Leveraging Deep Learning and Large Language Models for Semantic Integration,Breast_Cancer_Image_Classification_Leveraging_Deep_Learning_and_Large_Language_Models_for_Semantic_Integration.pdf,True,Limited novelty compared with other works
+Performance Evaluation of Multimodal Large Language Models (LLaVA and GPT-4-based ChatGPT) in Medical Image Classification Tasks,Performance_Evaluation_of_Multimodal_Large_Language_Models_LLaVA_and_GPT-4-based_ChatGPT_in_Medical_Image_Classification_Tasks.pdf,True,Simple model comparision not much novelty
+Unlocking The Potential Of Vision-Language Models For Mammography Analysis,Unlocking_The_Potential_Of_Vision-Language_Models_For_Mammography_Analysis.pdf,False,
+Diffusion Model for Mammography Anomaly Detection,Diffusion_Model_for_Mammography_Anomaly_Detection.pdf,False,
+SAM-PR: Enhancing 3D Automated Breast Ultrasound Imaging Segmentation with Probabilistic Refinement of SAM,ONLINE,True,Not downloadable
+Mammographic Breast Composition Classification Using Swin Transformer Network,SM3646.pdf,False,
+David vs. Goliath: Large Foundation Models are not Outperforming Small Models in Multi-view Mammogram Breast Cancer Prediction,ONLINE,True,Not Downloadable
+Clinical Utility of Breast Ultrasound Images Synthesized by a Generative Adversarial Network,medicina-60-00014-v2.pdf,False,
+Mammo-SAM: Adapting Foundation Segment Anything Model for Automatic Breast Mass Segmentation in Whole Mammograms,978-3-031-45673-2_18.pdf,False,
+Segmentation of Ultrasound Images Using Customized Finetuning Strategies Based on Foundation Model,Segmentation_of_Ultrasound_Images_Using_Customized_Finetuning_Strategies_Based_on_Foundation_Model.pdf,False,
+Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation,978-3-031-72120-5_16.pdf,False,
+Exposing Vulnerabilities in Clinical LLMs Through Data Poisoning Attacks: Case Study in Breast Cancer,nihpp-2024.03.20.24304627v1.pdf,False,
+Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure,2403.11425v3.pdf,True,Not Focused on Breast Surgical planning phases
+Enhancing Cancer Detection with Fine-Tuned Large Language Models: A Comparative Study on Low-Rank Adaptation,Enhancing_Cancer_Detection_with_Fine-Tuned_Large_Language_Models_A_Comparative_Study_on_Low-Rank_Adaptation.pdf,False,
+Generating High-quality Synthetic Mammogram Images Using Denoising Diffusion Probabilistic Models: A Novel Approach for Augmenting Deep Learning Datasets,Generating_High-quality_Synthetic_Mammogram_Images_Using_Denoising_Diffusion_Probabilistic_Models_a_Novel_Approach_for_Augmenting_Deep_Learning_Datasets.pdf,False,
+Large language model (ChatGPT) as a support tool for breast tumor board,s41523-023-00557-8.pdf,True,Brief communication with marginal novelty
+Challenging ChatGPT 3.5 in Senology—An Assessment of Concordance with Breast Cancer Tumor Board Decision Making,jpm-13-01502.pdf,False,
+Comparison of Patient Education Materials Generated by Chat Generative Pre-Trained Transformer Versus Experts: An Innovative Way to Increase Readability of Patient Education Materials,ONLINE,True,Not Downloadable
+Evaluating GPT as an Adjunct for Radiologic Decision Making: GPT-4 Versus GPT-3.5 in a Breast Imaging Pilot,1-s2.0-S1546144023003940.pdf,True,Fairly old in terms of technology
+The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification,2305.17891v2.pdf,False,
+Enhancing Breast Cancer Diagnosis Through Segmentation-Driven Generative Adversarial Networks for Synthetic Mammogram Generation,Enhancing_Breast_Cancer_Diagnosis_Through_Segmentation-Driven_Generative_Adversarial_Networks_for_Synthetic_Mammogram_Generation.pdf,False,
+Developing prompts from large language model for extracting clinical information from pathology and ultrasound reports in breast cancer,roj-2023-00633.pdf,False,
+SAM Driven Robust Breast Lesion Segmentation via Adversarial Prompt Engineering,SAM_Driven_Robust_Breast_Lesion_Segmentation_via_Adversarial_Prompt_Engineering.pdf,False,
+"Cancer Stage Discovery with StyleGAN3, Swin Transformer, and Multimodal LLM",Deep_Learning_Based_Discovery_of_New_Breast_Cancer_Stages_StyleGAN3_and_Swin_Transformer_Approach.pdf,True,Similar studies already exists
+AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation,AMVLM_Alignment-Multiplicity_Aware_Vision-Language_Model_for_Semi-Supervised_Medical_Image_Segmentation.pdf,False,
+Learning in Medical Image Segmentation: SAM Fine-Tuning vs. U-Net Training for Breast Ultrasound,Learning_in_Medical_Image_Segmentation_SAM_Fine-Tuning_vs._U-Net_Training_for_Breast_Ultrasound.pdf,True,Not necessarily align with study scope
+CytoFM: The First Cytology Foundation Model,Ivezic_CytoFM_The_first_cytology_foundation_model_CVPRW_2025_paper.pdf,False,
+Grounding DINO-US-SAM: Text-Prompted Multiorgan Segmentation in Ultrasound With LoRA-Tuned Vision–Language Models,Grounding DINO-US-SAM: Text-Prompted Multiorgan Segmentation in Ultrasound With LoRA-Tuned Vision–Language Models,True,duplicated sample
+Sam-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching,Sam-Driven_Weakly_Supervised_Nodule_Segmentation_with_Uncertainty-Aware_Cross_Teaching.pdf,False,
+Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation,Konwer_Enhancing_SAM_with_Efficient_Prompting_and_Preference_Optimization_for_Semi-supervised_CVPR_2025_paper.pdf,False,
+Clip-Medfake: Synthetic Data Augmentation With AI-Generated Content for Improved Medical Image Classification,Clip-Medfake_Synthetic_Data_Augmentation_With_AI-Generated_Content_for_Improved_Medical_Image_Classification.pdf,False,
+Benchmarking Supervised and Self-Supervised Learning Methods in A Large Ultrasound Muti-task Images Dataset,Benchmarking_Supervised_and_Self-Supervised_Learning_Methods_in_a_Large_Ultrasound_Muti-Task_Images_Dataset.pdf,False,
+D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification,D-Cube_Exploiting_Hyper-Features_of_Diffusion_Model_for_Robust_Medical_Classification.pdf,False,
+FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification,Guo_FOCUS_Knowledge-enhanced_Adaptive_Visual_Compression_for_Few-shot_Whole_Slide_Image_CVPR_2025_paper.pdf,False,
+Bridging Domains in Melanoma Diagnostics: Predicting BRAF Mutations and Sentinel Lymph Node Positivity with Attention-Based Models in Histological Images,Bridging_Domains_in_Melanoma_Diagnostics_Predicting_BRAF_Mutations_and_Sentinel_Lymph_Node_Positivity_with_Attention-Based_Models_in_Histological_Images.pdf,False,
+Generative AI impact on protein stability prediction in breast cancer genes,2024.06.03.597089v1.full.pdf,False,
+Abstract 6185: Generative AI for virtual HE-staining of whole slide images of unstained breast cancer tissue,ONLINE,True,Short abstract with minimal novelty
+Abstract 2473: Generative AI improves breast cancer genomic subtype prediction from histology,ONLINE,True,Short abstract with minimal novelty
+Predictive Analytics and Generative AI for Optimizing Cer-vical and Breast Cancer Outcomes: A Data-Centric Approach,2.RamMohanReddyKundavaram.pdf,True,No research novelty and mostly discussion
+Generative artificial intelligence (AI) for predictive analysis: Can AI estimate the likelihood of sentinel lymph node metastases in early-stage breast cancer?,ONLINE,True,Short abstract with minimal novelty
+"Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI",Large_Language_Models_for_Cancer_Communication_Eva.pdf,True,Reviews are not assessed
+Augmentation AI: Use of a Novel Deep Learning-Based Generative Artificial Intelligence System As a Tool for Breast Augmentation Simulation,ONLINE,True,Short abstract with minimal novelty
+Assessment of Appearance-related Questions About Breast Reconstruction Generated by Chat Generative Pre-trained Transformer,gox-13-e6625.pdf,False,
+Reinforcement of Explainability of ChatGPT Prompts by Embedding Breast Cancer Self-Screening Rules into AI Responses,Reinforcement_Explainability_of_ChatGPT_Prompts_by_Embedding_Breast_Cancer_Self-Screening_Rules_into_AI_Responses.pdf,True,duplicate study
+Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses,2407.16634v1.pdf,False,
+ChatGPT Virtual Assistant for Breast Reconstruction: Assessing Preferences for a Traditional Chatbot versus a Human AI VideoBot,gox-12-e6202.pdf,True,Not in direction of the review scope
+Open-source modular AI coupled with agentic AI for comprehensive breast cancer note generation and guideline-directed treatment comparison.,ONLINE,True,Short abstract with minimal novelty
+Abstract P4-11-08: Comparative analysis of clinician and AI decision making in HR+/HER2- early breast cancer,ONLINE,True,Short abstract with minimal novelty
+Mitigating annotation shift in cancer classification using single-image generative models,2405.19754v1.pdf,False,
+Abstract A015: Design and deciphering of precision peptide inhibitors for cancer stemness using generative deep learning and molecular dynamics simulations,ONLINE,True,Short abstract with minimal novelty
+Pharmacophore-Guided Generative Design of Novel Drug-Like Molecules,2510.01480v1.pdf,False,
+Unsupervised Generative Approach for Anomaly Detection to Enhance the Quality of Unseen Medical Datasets,Zhang_Unsupervised_Generative_Approach_for_Anomaly_Detection_to_Enhance_the_Quality_WACVW_2025_paper.pdf,False,
+EPG-GAN: edge-guided progressive growing generative adversarial network for mammogram synthesis,aimat20250007.pdf,False,
+MAMBO: High-Resolution Generative Approach for Mammography Images,2506.08677v3.pdf,False,
+GEMDiff: a diffusion workflow bridges between normal and tumor gene expression states: a breast cancer case study,bbaf093.pdf,False,
+Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation,2506.23334v2.pdf,False,
+Challenges in knowledge graph generation for breast cancer using open-source LLMs and the role of mCODE.,ONLINE,True,Short abstract with minimal novelty
+Generating a potent inhibitor against MCF7 breast cancer cell through artificial intelligence based virtual screening and molecular docking studies,IJBB353-auth-corr.pdf,False,
+Abstract 2460: Judith: An agentic AI system for biomedical image analysis and scientific discovery in precision oncology,ONLINE,True,Short abstract with minimal novelty
+"Comparative analysis of Endoxifen, Tamoxifen and Fulvestrant: A Bioinformatics Approach to Uncover Mechanisms of Action in Breast Cancer",2024.10.02.616224v1.full.pdf,True,Not much technical interest
+AI-driven design of novel PARP inhibitors.,ONLINE,True,Short abstract with minimal novelty
+Classification of Breast Cancer Histopathological Images using DensNet201,Computational Intelligence and Neuroscience - 2022 - Wakili - Classification of Breast Cancer Histopathological Images.pdf,True,Mostly on DL and not much GenAI
+Sharing generative models instead of private data: a simulation study on mammography patch classification,2203.04961v2.pdf,False,
+"Exploratory multi-cohort, multi-reader study on the clinical utility of a deep learning model for transforming cryosectioned to formalin-fixed, paraffin-embedded (FFPE) images in breast lesion diagnosis",s13058-025-02064-z.pdf,False,
+A machine and human reader study on AI diagnosis model safety under attacks of adversarial images,s41467-021-27577-x.pdf,False,
+Improving Image Quality and Reducing Scan Time for Synthetic MRI of Breast by Using Deep Learning Reconstruction,BMRI2022-3125426.pdf,True,Technology used is standard DL not GenAI
+AI-based prediction of lesion occurrence in high-risk women based on anomalies detected in follow-up examinations,ONLINE,True,Not Downloadable
+Physician Assessment of ChatGPT and Bing Answers to American Cancer Society’s Questions to Ask About Your Cancer,nihms-1931594.pdf,False,
+AI assisted method for efficiently generating breast ultrasound screening reports,2107.13431v2.pdf,False,
+Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence,1-s2.0-S153204642500200X-main.pdf,False,
+G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation,2510.11176v3.pdf,False,
+GAS-MIL: Group-Aggregative Selection Multi-Instance Learning for Ensemble of Foundation Models in Digital Pathology Image Analysis,2510.03555v1.pdf,True,Marginal novelty
+A Versatile Foundation Model for AI-enabled Mammogram Interpretation,2509.20271v1.pdf,False,
+Toward a robust lesion detection model in breast DCE-MRI: adapting foundation models to high-risk women,2509.02710v1.pdf,False,
+Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models,s41746-025-02334-2.pdf,False,
+Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2,978-3-032-05559-0_9.pdf,False,
+Mammo-SAE: Interpreting Breast Cancer Concept Learning with Sparse Autoencoders,978-3-032-05559-0_2.pdf,False,
+Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?,978-3-032-05559-0_11.pdf,False,
+Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation,2506.21444v2.pdf,False,
+Adapting Vision-Language Foundation Model for Next Generation Medical Ultrasound Image Analysis,2506.08849v3.pdf,False,
+Bias and Generalizability of Foundation Models across Datasets in Breast Mammography,978-3-032-05185-1_3.pdf,False,
+MedForge: Building Medical Foundation Models Like Open Source Software Development,2502.16055v1.pdf,False,
+MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification,4842_MGPATH_A_Vision_Language_.pdf,False,
+"ECTIL: Label-efficient Computational Tumour Infiltrating Lymphocyte (TIL) assessment in breast cancer: Multicentre validation in 2,340 patients with breast cancer",PIIS2589750025001037.pdf,False,
+MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and Clinical Numeric Data in Multi-Cancer Analysis,2501.13277v1.pdf,False,
+A Foundational Generative Model for Breast Ultrasound Image Analysis,2501.06869v1.pdf,False,
+Multi-modal AI for comprehensive breast cancer prognostication,2410.21256v2.pdf,False,
+EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything,2410.13621v4.pdf,False,
+"Ultrasound-based detection and malignancy prediction of breast lesions eligible for biopsy: A multi-center clinical-scenario study using nomograms, large language models, and radiologist evaluation",2509.00946v1.pdf,False,
+Is ChatGPT-5 Ready for Mammogram VQA?,2508.11628v1.pdf,False,
+Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks,s41467-025-56989-2.pdf,False,
+Expertise Is What We Want,2502.20335v1.pdf,False,
+Leveraging large language models for structured information extraction from pathology reports,1-s2.0-S2153353925001075-main.pdf,False,
+Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines,2502.15698v1.pdf,False,
+Exploring Large Language Models for Specialist-level Oncology Care,2411.03395v1.pdf,False,
+RadioRAG: Online Retrieval-augmented Generation for Radiology Question Answering,2407.15621v3.pdf,False,
+A Large Language Model Pipeline for Breast Cancer Oncology,2406.06455v2.pdf,False,
+Scientific Hypothesis Generation by a Large Language Model: Laboratory Validation in Breast Cancer Treatment,ONLINE,True,Short paper with marginal novelty
+A comparative study of zero-shot inference with large language models and supervised modeling in breast cancer pathology classification,nihpp-rs3914899v1.pdf,False,
+Impact of Large Language Model Assistance on Patients Reading Clinical Notes: A Mixed-Methods Study,2401.09637v2.pdf,True,Out of scope for study objectives
+Breast Ultrasound Report Generation using LangChain,1-s2.0-S089561112500206X-main.pdf,False,
+CORAL: Expert-Curated medical Oncology Reports to Advance Language Model Inference,nihms-2055376.pdf,False,
+GLAM: Geometry-Guided Local Alignment for Multi-View VLP in Mammography,2509.10344v1.pdf,False,
+UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation,1250_paper.pdf,False,
+Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling,417_Few_Shot_Learning_from_Gig.pdf,False,
+ImmunoFOMO: Are Language Models missing what oncologists see?,2506.11478v1.pdf,False,
+Knowledge-guided Contextual Gene Set Analysis Using Large Language Models,nihpp-2506.04303v1.pdf,False,
+LIDDIA: Language-based Intelligent Drug Discovery Agent,nihms-2117844.pdf,False,
+Understanding Breast Cancer Survival: Using Causality and Language Models on Multi-omics Data,2305.18410v1.pdf,False,
+A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records,1-s2.0-S2001037023002933-main.pdf,False,
+Efficient Few-Shot Medical Image Analysis via Hierarchical Contrastive Vision-Language Learning,2501.09294v1.pdf,False,
+Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography,2404.15946v1.pdf,False,
