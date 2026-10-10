@@ -1,0 +1,12 @@
+code,subdomain,phase,n_studies,weighted_n,n_public_datasets,patient_facing,patient_endpoint,personalized,source_controlled,extraction,faithfulness_audited,open_generation,public_data,specialized,benchmarking,external_validation,workflow_proximity,integrated_pipeline,deployed,real_clinical,human_eval,prospective,closed_generation,sample_size_norm,evidence_volume_norm,public_dataset_count_norm
+ID,Initial diagnosis and lesion characterization,Preoperative,9,7.5,2,0.0,0.0,0.067,0.8,0.667,0.467,0.267,0.467,0.4,0.867,0.333,0.867,0.667,0.0,0.8,0.333,0.0,0.733,0.732,0.661,0.1
+TPA,Tumor and patient assessment,Preoperative,25,24.5,20,0.041,0.0,0.082,0.041,0.0,0.041,0.041,0.878,1.0,0.959,0.571,0.245,0.592,0.0,1.0,0.143,0.0,0.959,0.804,1.0,1.0
+MDT,"MDT evaluation, staging, and risk stratification",Preoperative,12,8.5,4,0.0,0.0,0.471,0.235,0.412,0.294,0.412,0.294,0.118,0.941,0.059,0.824,0.412,0.0,0.529,0.235,0.0,0.588,0.502,0.695,0.2
+SDM,Patient consultation and shared decision-making,Preoperative,8,7.0,0,0.857,0.714,0.286,0.0,0.0,0.571,0.571,0.071,0.286,0.643,0.0,0.714,0.286,0.0,0.643,0.571,0.357,0.429,0.539,0.642,0.0
+SAS,Surgical approach selection,Operative,6,3.5,3,0.0,0.0,0.714,0.429,0.0,0.571,0.714,0.571,0.571,0.857,0.0,0.857,0.571,0.0,0.286,0.429,0.0,0.286,0.349,0.464,0.15
+MAR,Margin assessment and intraoperative confirmation,Operative,1,1.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.5,0.214,0.0
+AXL,Axillary lymph node management,Operative,4,3.5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.714,1.0,0.286,0.286,0.429,0.0,1.0,0.143,0.0,1.0,0.729,0.464,0.15
+REC,Reconstruction planning,Operative,5,4.0,1,0.25,0.25,0.5,0.0,0.0,0.5,0.75,0.375,0.5,0.875,0.0,0.5,0.5,0.0,0.375,0.5,0.125,0.25,0.307,0.497,0.05
+POC,Postoperative care and adjuvant therapy planning,Postoperative,9,8.0,3,0.0,0.0,0.688,0.312,0.188,0.188,0.688,0.375,0.75,0.875,0.25,0.562,0.562,0.0,0.688,0.562,0.0,0.312,0.633,0.678,0.15
+COM,"Communication, symptom capture, and recovery support",Postoperative,8,6.5,4,0.846,0.769,0.231,0.692,0.154,0.615,0.769,0.538,0.769,0.692,0.077,0.769,0.538,0.231,0.769,0.615,0.231,0.231,0.504,0.622,0.2
+FUP,Follow-up and long-term monitoring,Postoperative,4,3.0,2,0.167,0.333,0.333,0.167,1.0,0.167,0.167,0.167,1.0,0.667,0.5,1.0,0.167,0.167,1.0,0.167,0.167,0.833,0.803,0.428,0.1

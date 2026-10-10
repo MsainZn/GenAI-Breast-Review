@@ -1,0 +1,78 @@
+key,modalities,training,algorithm
+selvaraj2025automating,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+spitzl2025llm,CT,Inference-only / prompting,Large Language Model (LLM)
+liu2025bootstrapping,MRI,Supervised fine-tuning,Large Language Model (LLM)
+chen2025structured,Mammogram;Ultrasound;MRI;CT,Inference-only / prompting,Large Language Model (LLM)
+sanli2025interpreting,MRI,Inference-only / prompting,Large Language Model (LLM)
+li2025using,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+cheligeer2024validation,Histopathology / Pathology,Supervised fine-tuning,Large Language Model (LLM)
+hein2025iterative,Histopathology / Pathology,Inference-only / prompting,Large Language Model (LLM)
+sushil2024comparative,Histopathology / Pathology,Inference-only / prompting,Large Language Model (LLM)
+umihanic2025evaluating,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+ah2025large,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+griewing2024proof,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+nabieva2024chatgpt,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+kim2025end,Clinical / guideline text;MRI;Ultrasound;Histopathology / Pathology;CT,Supervised fine-tuning,Vision-Language-Model (VLM)
+pisarcik2025artificial,Mammogram;Ultrasound,Inference-only / prompting,Large Language Model (LLM)
+maroncelli2024probing,Mammogram;Ultrasound;MRI,Inference-only / prompting,Large Language Model (LLM)
+palmarin2025assessing,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+zhu2025large,Clinical / guideline text,Supervised fine-tuning,Large Language Model (LLM)
+ferber2024context,Histopathology / Pathology,Inference-only / prompting,Vision-Language-Model (VLM)
+koleilat2025medclip,Ultrasound;MRI;X-ray;CT,Weakly-supervised learning,Vision-Language-Model (VLM)
+cao2025mammovlm,Mammogram,Supervised fine-tuning,Vision-Language-Model (VLM)
+chen2025visual,Histopathology / Pathology;Genomics/Transcriptomics,Self-supervised pretraining,Foundational model
+zhao2024aligning,Histopathology / Pathology,Weakly-supervised learning,Vision-Language-Model (VLM)
+wang2025pm2,Histopathology / Pathology,Supervised fine-tuning,Vision-Language-Model (VLM)
+rasaee2025grounding,Ultrasound,Supervised fine-tuning,Vision-Language-Model (VLM)
+gao2025multi,MRI,Self-supervised pretraining,Vision-Language-Model (VLM)
+yan2025multi,Mammogram,Supervised fine-tuning,Vision-Language-Model (VLM)
+ghosh2024mammo,Mammogram,Self-supervised pretraining,Vision-Language-Model (VLM)
+lee2025benchmarking,Histopathology / Pathology,Supervised fine-tuning,Foundational model
+kim2025predicting,Histopathology / Pathology,Weakly-supervised learning,Foundational model
+chen10704697,Ultrasound,Supervised fine-tuning,Foundational model
+miao2024cross,Ultrasound,Others (semi-/unsupervised; federated),Foundational model
+xu2025segment,Ultrasound,Others (semi-/unsupervised; federated),Foundational model
+huang2026synergistic,Mammogram,Others (semi-/unsupervised; federated),Foundational model
+okolie2025accelerating,MRI,Others (semi-/unsupervised; federated),Diffusions/GANs
+osorio2024latent,Histopathology / Pathology,Weakly-supervised learning,Diffusions/GANs
+pocevivciute2025out,Histopathology / Pathology,Others (semi-/unsupervised; federated),Diffusions/GANs
+boie2025evaluating,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+xu2024evaluation,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+chen2025breast,Clinical / guideline text,Supervised fine-tuning,RAG & Agentic Systems
+tayebi2025radiorag,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+mohammed2025developing,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+liu2024medgen,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+liu2024picoas,Clinical / guideline text,Inference-only / prompting,RAG & Agentic Systems
+huh2025wholistic,Ultrasound,Supervised fine-tuning,RAG & Agentic Systems
+belligoli2025they,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+nakka2025mammo,Mammogram,Others (semi-/unsupervised; federated),Vision-Language-Model (VLM)
+das2024exposing,Clinical / guideline text,Supervised fine-tuning,Large Language Model (LLM)
+chen2025sam2med3d,MRI,Supervised fine-tuning,Foundational model
+andras2025artificial,Mammogram,Inference-only / prompting,Vision-Language-Model (VLM)
+zheng2025large,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+shiraishi2025performance,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+gonzalez2025assessment,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+marcaccini2025enhancing,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+lee2025study,Clinical / guideline text,Supervised fine-tuning,Large Language Model (LLM)
+chen2024chat,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+luo2024automated,Clinical / guideline text,Supervised fine-tuning,Large Language Model (LLM)
+miao2025exploring,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+delourme2024leveraging,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+griewing2023challenging,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+deng2024evaluation,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+pinto2025towards,Exterior breast (RGB),Others (semi-/unsupervised; federated),3D modeling & XR
+allison2020breast3d,MRI;CT,Others (semi-/unsupervised; federated),3D modeling & XR
+montenegro2024disentangled,Exterior breast (RGB),Supervised fine-tuning,Diffusions/GANs
+santos2025anatomically,Exterior breast (RGB),Supervised fine-tuning,Diffusions/GANs
+chen2024conditional,MRI;Genomics/Transcriptomics,Others (semi-/unsupervised; federated),Diffusions/GANs
+raheem2025fame,Ultrasound,Others (semi-/unsupervised; federated),Diffusions/GANs
+ling2025comprehensive,Histopathology / Pathology,Weakly-supervised learning,Foundational model
+lee2025natural,Histopathology / Pathology,Supervised fine-tuning,Large Language Model (LLM)
+choi2023developing,Ultrasound;Histopathology / Pathology,Inference-only / prompting,Large Language Model (LLM)
+oh2024llm,CT;Clinical / guideline text,Supervised fine-tuning,Vision-Language-Model (VLM)
+park2025generative,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)
+vo2024frozen,Mammogram;Clinical / guideline text,Supervised fine-tuning,Vision-Language-Model (VLM)
+wang2024pathology,Histopathology / Pathology,Weakly-supervised learning,Foundational model
+zama2023clinical,Ultrasound,Others (semi-/unsupervised; federated),Diffusions/GANs
+rofena2025lesion,Mammogram,Others (semi-/unsupervised; federated),Diffusions/GANs
+ccamur2025evaluating,Clinical / guideline text,Inference-only / prompting,Large Language Model (LLM)

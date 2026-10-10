@@ -1,0 +1,7 @@
+dimension,spearman_rho,max_abs_diff
+Patient-centeredness,0.984,0.33
+Grounding & faithfulness,0.963,0.2
+Data availability,0.989,0.51
+Technical maturity,1.0,0.11
+Workflow integration,0.89,0.87
+Clinical validation,0.973,0.2

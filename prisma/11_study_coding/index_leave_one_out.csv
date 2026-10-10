@@ -1,0 +1,67 @@
+subdomain,dimension,max_abs_change,most_influential_study
+ID,Patient-centeredness,0.07,ccamur2025evaluating
+ID,Grounding & faithfulness,0.21,huh2025wholistic
+ID,Data availability,0.28,hein2025iterative
+ID,Technical maturity,0.26,liu2025bootstrapping
+ID,Workflow integration,0.24,tayebi2025radiorag
+ID,Clinical validation,0.11,tayebi2025radiorag
+TPA,Patient-centeredness,0.11,cao2025mammovlm
+TPA,Grounding & faithfulness,0.06,zhao2024aligning
+TPA,Data availability,0.1,cao2025mammovlm
+TPA,Technical maturity,0.07,okolie2025accelerating
+TPA,Workflow integration,0.09,cao2025mammovlm
+TPA,Clinical validation,0.05,cao2025mammovlm
+MDT,Patient-centeredness,0.07,miao2025exploring
+MDT,Grounding & faithfulness,0.23,delourme2024leveraging
+MDT,Data availability,0.24,belligoli2025they
+MDT,Technical maturity,0.08,griewing2024proof
+MDT,Workflow integration,0.3,belligoli2025they
+MDT,Clinical validation,0.13,miao2025exploring
+SDM,Patient-centeredness,0.25,selvaraj2025automating
+SDM,Grounding & faithfulness,0.0,selvaraj2025automating
+SDM,Data availability,0.19,gonzalez2025assessment
+SDM,Technical maturity,0.24,montenegro2024disentangled
+SDM,Workflow integration,0.14,montenegro2024disentangled
+SDM,Clinical validation,0.15,maroncelli2024probing
+SAS,Patient-centeredness,0.12,nabieva2024chatgpt
+SAS,Grounding & faithfulness,0.37,mohammed2025developing
+SAS,Data availability,0.45,mohammed2025developing
+SAS,Technical maturity,0.32,mohammed2025developing
+SAS,Workflow integration,0.41,nabieva2024chatgpt
+SAS,Clinical validation,0.21,umihanic2025evaluating
+MAR,Patient-centeredness,0.0,selvaraj2025automating
+MAR,Grounding & faithfulness,0.0,selvaraj2025automating
+MAR,Data availability,0.0,selvaraj2025automating
+MAR,Technical maturity,0.0,koleilat2025medclip
+MAR,Workflow integration,0.0,selvaraj2025automating
+MAR,Clinical validation,0.0,selvaraj2025automating
+AXL,Patient-centeredness,0.0,selvaraj2025automating
+AXL,Grounding & faithfulness,0.0,selvaraj2025automating
+AXL,Data availability,0.07,pocevivciute2025out
+AXL,Technical maturity,0.48,pocevivciute2025out
+AXL,Workflow integration,0.46,ling2025comprehensive
+AXL,Clinical validation,0.2,ferber2024context
+REC,Patient-centeredness,0.42,shiraishi2025performance
+REC,Grounding & faithfulness,0.2,zheng2025large
+REC,Data availability,0.61,zheng2025large
+REC,Technical maturity,0.3,zheng2025large
+REC,Workflow integration,0.53,zheng2025large
+REC,Clinical validation,0.23,marcaccini2025enhancing
+POC,Patient-centeredness,0.1,cheligeer2024validation
+POC,Grounding & faithfulness,0.15,kim2025end
+POC,Data availability,0.3,kim2025end
+POC,Technical maturity,0.2,kim2025end
+POC,Workflow integration,0.26,das2024exposing
+POC,Clinical validation,0.26,liu2024medgen
+COM,Patient-centeredness,0.24,boie2025evaluating
+COM,Grounding & faithfulness,0.18,palmarin2025assessing
+COM,Data availability,0.29,boie2025evaluating
+COM,Technical maturity,0.27,palmarin2025assessing
+COM,Workflow integration,0.26,chen2025breast
+COM,Clinical validation,0.15,palmarin2025assessing
+FUP,Patient-centeredness,0.52,lee2025natural
+FUP,Grounding & faithfulness,0.23,chen2024chat
+FUP,Data availability,0.57,chen2024chat
+FUP,Technical maturity,0.51,lee2025natural
+FUP,Workflow integration,0.3,chen2024chat
+FUP,Clinical validation,0.34,lee2025natural

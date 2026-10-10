@@ -1,0 +1,5 @@
+pair,rho,weight_perturbation_p2.5,weight_perturbation_p97.5,share_same_sign_weights,bootstrap_p2.5,bootstrap_p97.5,share_same_sign_bootstrap
+Data availability vs Technical maturity,0.62,0.57,0.72,1.0,0.16,0.89,0.994
+Technical maturity vs Clinical validation,0.76,0.57,0.82,1.0,0.25,0.87,0.999
+Grounding & faithfulness vs Workflow integration,0.82,0.56,0.88,1.0,0.18,0.89,0.996
+Patient-centeredness vs Data availability,-0.58,-0.62,-0.5,1.0,-0.8,-0.14,0.994

@@ -1,0 +1,13 @@
+dimension,scheme,median_rank_rho,p5_rank_rho,min_rank_rho
+Patient-centeredness,"weights x U(0.5,1.5), renormalized",0.991,0.973,0.927
+Grounding & faithfulness,"weights x U(0.5,1.5), renormalized",0.975,0.855,0.68
+Data availability,"weights x U(0.5,1.5), renormalized",1.0,0.982,0.982
+Technical maturity,"weights x U(0.5,1.5), renormalized",0.991,0.955,0.873
+Workflow integration,"weights x U(0.5,1.5), renormalized",0.964,0.882,0.773
+Clinical validation,"weights x U(0.5,1.5), renormalized",0.982,0.836,0.564
+Patient-centeredness,stress test: Dirichlet(1) weights,0.973,0.5,0.391
+Grounding & faithfulness,stress test: Dirichlet(1) weights,0.809,0.349,-0.11
+Data availability,stress test: Dirichlet(1) weights,0.982,0.791,0.791
+Technical maturity,stress test: Dirichlet(1) weights,0.927,0.555,0.273
+Workflow integration,stress test: Dirichlet(1) weights,0.855,0.264,0.055
+Clinical validation,stress test: Dirichlet(1) weights,0.9,0.218,-0.3

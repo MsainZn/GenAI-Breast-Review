@@ -1,0 +1,36 @@
+dataset,modality,use_case,studies,link,phase
+BUSI,Ultrasound,"Text-driven, semi-supervised, and SAM-guided lesion segmentation",koleilat2025medclip;miao2024cross;xu2025segment;raheem2025fame,https://scholar.cu.edu.eg/?q=afahmy/pages/dataset,pre
+BrEaST,Ultrasound,Grounded lesion localization and segmentation,rasaee2025grounding,https://www.cancerimagingarchive.net/collection/breast-lesions-usg/,pre
+BUID,Ultrasound,Task-prompted ultrasound lesion delineation,chen10704697,https://qamebi.com/breast-ultrasound-images-database/,pre
+BUSUC,Ultrasound,Privacy-preserving federated and synthetic ultrasound diagnosis,raheem2025fame,https://data.mendeley.com/datasets/3ksd7w7jkx/1,pre
+CBIS-DDSM,Mammography and EHR,Multimodal VLM malignancy prediction from lesion images and clinical text,vo2024frozen,https://www.cancerimagingarchive.net/collection/cbis-ddsm/,pre
+EMBED,Mammography and EHR,Multimodal VLM malignancy prediction from lesion images and clinical text,vo2024frozen,https://registry.opendata.aws/emory-breast-imaging-dataset-embed/,pre
+VinDr-Mammo,Mammography,Interpretable mammography concept learning,nakka2025mammo;ghosh2024mammo;yan2025multi,https://physionet.org/content/vindr-mammo/,pre
+RSNA BC Detection,Mammography,CLIP-based mammography malignancy classification,ghosh2024mammo,https://www.kaggle.com/competitions/rsna-breast-cancer-detection,pre
+INbreast,Mammography,Semi-supervised FM-assisted mammogram segmentation,huang2026synergistic;yan2025multi,https://biokeanos.com/source/INbreast,pre
+MIAS,Mammography,CLIP-based cross-dataset mammogram classification,yan2025multi,https://www.kaggle.com/datasets/kmader/mias-mammography,pre
+CDD-CESM,Contrast-enhanced mammography,Lesion-aware virtual contrast-enhanced mammography,rofena2025lesion,https://www.cancerimagingarchive.net/collection/cdd-cesm/,pre
+I-SPY2,MRI and reports,Multimodal longitudinal prediction of neoadjuvant therapy response,gao2025multi,https://www.cancerimagingarchive.net/collection/ispy2/,pre
+Duke-BC MRI,3D breast MRI,SAM2-based 3D breast tumor segmentation,chen2025sam2med3d,https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri/,pre
+TCGA-BRCA,Histopathology,Concept-aligned WSI analysis for HER2 scoring and Nottingham grading,zhao2024aligning;kim2025predicting,https://portal.gdc.cancer.gov/projects/TCGA-BRCA,pre
+TCGA-BRCA pathology reports,Pathology reports,Schema-guided LLM extraction from pathology reports,hein2025iterative,https://github.com/tatonetti-lab/tcga-path-reports,pre
+cBioPortal BRCA,Clinical and omics tables,Radiogenomic conditioning for diffusion-based MRI synthesis,chen2024conditional,https://www.cbioportal.org/study?id=brca_tcga_pub,pre
+BCNB,Histopathology,Pathology foundation-model biomarker and outcome prediction,wang2024pathology,https://bcnb.grand-challenge.org/,pre
+BRACS,Histopathology,Pathology-FM breast lesion subtype classification and external grading,lee2025benchmarking;kim2025predicting,https://www.bracs.icar.cnr.it/,pre
+BACH,Histopathology,Prompted multimodal few-shot histopathology classification,wang2025pm2;lee2025benchmarking,https://zenodo.org/records/3632035,pre
+PatchCamelyon,Histopathology,Diffusion-augmented diagnosis and in-context nodal metastasis classification,osorio2024latent;ferber2024context;lee2025benchmarking,https://patchcamelyon.grand-challenge.org/,op
+ST-bank,Histology and transcriptomics,Visual-omics FM alignment for spatial profiling,chen2025visual,https://www.nature.com/articles/s41592-025-02707-1,pre
+GGPONC,Guideline text,RAG-based guideline-constrained treatment decision support,griewing2024proof,https://zenodo.org/records/12518458,op
+Fictional BC profiles,Clinical text,Chatbot concordance with tumor board decisions,griewing2023challenging;griewing2024proof,https://doi.org/10.1007/s00432-024-05964-3,op
+18th St. Gallen questionnaire,Consensus text,LLM treatment-recommendation concordance testing,nabieva2024chatgpt,https://doi.org/10.3390/cancers16244163,op
+ACR Appropriateness Criteria,Guideline scenarios,LLM imaging-modality selection,ccamur2025evaluating,https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Appropriateness-Criteria,pre
+Camelyon17 / Camelyon+,Histopathology,Foundation-model assessment of lymph node metastasis,ling2025comprehensive;pocevivciute2025out,https://camelyon17.grand-challenge.org/Data/,op
+AIDA BRLN,Histopathology,Out-of-distribution evaluation of FM-based metastasis detection,pocevivciute2025out,https://datahub.aida.scilifelab.se/10.23698/aida/brln,op
+BC Reconstruction (Kaggle),Clinical text and tabular data,LLM-based recovery prediction after reconstruction,zheng2025large,https://www.kaggle.com/datasets/programmer3/breast-cancer-reconstruction-patient-dataset,op
+Gil Hospital BC cases,Clinical case text,LMM-based adjuvant radiotherapy plan generation,kim2025end,https://github.com/tvseg/MM-LLM-RO,post
+FACT-B / BIBCQ / TMI,Questionnaire text,Conversational ePRO symptom and outcome capture,chen2024chat,https://www.facit.org/measures/fact-b,post
+Chinese Medical Dialogue,Clinical dialogue text,RAG-enhanced breast cancer dialogue support,chen2025breast;chen2024chat,https://www.kaggle.com/datasets/xuehaihe/medical-dialogue-dataset,post
+Chinese BC guidelines and consensus (2022),Guideline text,RAG-based nursing-care question answering,xu2024evaluation,https://article.cjcrcn.org/en/article/doi/10.21147/j.issn.1000-9604.2022.03.02?viewType=HTML,post
+German BC guideline and patient corpus,Guideline text,RAG-grounded patient companion chatbot,boie2025evaluating,https://www.leitlinienprogramm-onkologie.de/leitlinien/mammakarzinom,post
+NICE BC: Early and locally advanced,Guideline text,Agentic guideline linking for adjuvant decision support,liu2024picoas;liu2024medgen,https://www.nice.org.uk/guidance/ng101,post
+NICE Depression in adults,Guideline text,Agentic multimorbidity treatment-recommendation support,liu2024medgen;liu2024picoas,https://www.nice.org.uk/guidance/ng222,post

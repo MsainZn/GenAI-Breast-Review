@@ -1,0 +1,78 @@
+key,title,primary_subdomain,secondary_subdomain,patient_facing,patient_endpoint,personalized,source_controlled,extraction,faithfulness_audited,open_generation,public_data,specialized,benchmarking,external_validation,workflow_proximity,integrated_pipeline,deployed,real_clinical,human_eval,prospective,sample_size
+selvaraj2025automating,Automating the Observer OPTION-5 measure of shared decision making: Assessing validity by comparing large language models to human ratings,SDM,,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,287
+spitzl2025llm,LLM-powered breast cancer staging from PET/CT reports: a comparative performance study,MDT,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,111
+liu2025bootstrapping,Bootstrapping BI-RADS classification using large language models and transformers in breast magnetic resonance imaging reports,ID,,0,0,0,1,1,0,0,0,1,1,1,1,1,0,1,0,0,16927
+chen2025structured,Structured Report Generation for Breast Cancer Imaging Based on Large Language Modeling: A Comparative Analysis of GPT-4 and DeepSeek,ID,MDT,0,0,0,1,1,1,0,0,0,1,1,1,1,0,1,1,0,501
+sanli2025interpreting,Interpreting BI-RADS-Free Breast MRI Reports Using a Large Language Model: Automated BI-RADS Classification From Narrative Reports Using ChatGPT,ID,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,352
+li2025using,Using Open-Source Large Language Models to Identify Access to Germline Genetic Testing in Veterans With Breast Cancer From Unstructured Text,MDT,,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1201
+cheligeer2024validation,Validation of large language models for detecting pathologic complete response in breast cancer using population-based pathology reports,POC,,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,351
+hein2025iterative,Iterative refinement and goal articulation to optimize large language models for clinical information extraction,ID,,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0,0,2350
+sushil2024comparative,A comparative study of large language model-based zero-shot inference and task-specific supervised classification of breast cancer pathology reports,ID,,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,769
+umihanic2025evaluating,Evaluating the Concordance Between ChatGPT and Multidisciplinary Teams in Breast Cancer Treatment Planning: A Study from Bosnia and Herzegovina,SAS,MDT,0,0,1,0,0,1,1,0,0,1,0,1,0,0,1,1,0,91
+ah2025large,Large Language Models as Decision-Making Tools in Oncology: Comparing Artificial Intelligence Suggestions and Expert Recommendations,POC,,0,0,1,0,0,1,1,0,0,1,0,1,0,0,1,1,0,112
+griewing2024proof,"Proof-of-concept study of a small language model chatbot for breast cancer decision support – a transparent, source-controlled, explainable and data-secure approach",SAS,MDT,0,0,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,100
+nabieva2024chatgpt,ChatGPT’s Agreement with the Recommendations from the 18th St. Gallen International Consensus Conference on the Treatment of Early Breast Cancer,SAS,MDT,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,127
+kim2025end,End-to-end breast cancer radiotherapy planning via LMMs with consistency embedding,POC,,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,5674
+pisarcik2025artificial,Artificial Intelligence Language Models to Translate Professional Radiology Mammography Reports Into Plain Language – Impact on Interpretability and Perception by Patients,SDM,,1,1,0,0,0,1,1,0,0,1,0,1,0,0,0,1,1,40
+maroncelli2024probing,Probing clarity: AI-generated simplified breast imaging reports for enhanced patient comprehension powered by ChatGPT-4o,SDM,,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1,21
+palmarin2025assessing,Assessing the Accuracy and Readability of Large Language Model Guidance for Patients on Breast Cancer Surgery Preparation and Recovery,COM,,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,15
+zhu2025large,Large language model trained on clinical oncology data predicts cancer progression,FUP,,0,0,1,0,1,0,0,0,1,1,1,1,0,0,1,0,0,3402
+ferber2024context,In-context learning enables multimodal large language models to classify cancer pathology images,AXL,,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,120
+koleilat2025medclip,MedCLIP-SAMv2: Towards universal text-driven medical image segmentation,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,943
+cao2025mammovlm,MammoVLM: A generative large vision-language model for mammography-related diagnostic assistance,TPA,,1,0,1,0,0,1,1,0,1,1,1,1,1,0,1,1,0,30495
+chen2025visual,A visual-omics foundation model to bridge histopathology with spatial transcriptomics,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1007
+zhao2024aligning,Aligning knowledge concepts to whole slide images for precise histopathology image analysis,TPA,,0,0,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,933
+wang2025pm2,PM2: A new prompting multi-modal model paradigm for few-shot medical image classification,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,400
+rasaee2025grounding,Grounding DINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision–Language Models,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,5000
+gao2025multi,Multi-modal Longitudinal Representation Learning for Predicting Neoadjuvant Therapy Response in Breast Cancer Treatment,TPA,,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0,1420
+yan2025multi,Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,3000
+ghosh2024mammo,Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,13829
+lee2025benchmarking,Benchmarking pathology foundation models: Adaptation strategies and scenarios,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,5000
+kim2025predicting,Predicting Nottingham grade in breast cancer digital pathology using a foundation model,TPA,,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,496
+chen10704697,Multi-Organ Foundation Model for Universal Ultrasound Image Segmentation With Task Prompt and Anatomical Prior,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,7039
+miao2024cross,Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,647
+xu2025segment,A segment anything model-guided and match-based semi-supervised segmentation framework for medical imaging,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,647
+huang2026synergistic,Synergistic perception: Fusing expert knowledge and foundation models for semi-supervised mammogram segmentation,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,500
+okolie2025accelerating,Accelerating breast MRI acquisition with generative AI models,TPA,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,5086
+osorio2024latent,Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology,TPA,AXL,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,10000
+pocevivciute2025out,Out-of-distribution detection in digital pathology: Do foundation models bring the end to reconstruction-based approaches?,AXL,,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1000
+boie2025evaluating,Evaluating a Chatbot as a Companion for Patients With Breast Cancer: Collaborative Pilot Study,COM,,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,104
+xu2024evaluation,Evaluation of the integration of retrieval-augmented generation in large language model for breast cancer nursing care responses,COM,,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,0,15
+chen2025breast,Breast-CRAG: A Breast Cancer Large Language Model Leveraging Retrieval-Augmented Generation,COM,,1,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1000
+tayebi2025radiorag,RadioRAG: Online Retrieval-augmented Generation for Radiology Question Answering,ID,,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,1,0,104
+mohammed2025developing,Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines,SAS,,0,0,1,1,0,1,1,1,1,1,0,1,1,0,0,1,0,16
+liu2024medgen,MedGen: An Explainable Multi-Agent Architecture for Clinical Decision Support through Multisource Knowledge Fusion,POC,,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1
+liu2024picoas,"PICOAS: A clinical knowledge linking model for delivering up-to-date, interrelated, and personalized decision support",POC,,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,350
+huh2025wholistic,Breast Ultrasound Report Generation using LangChain,ID,,0,0,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,750
+belligoli2025they,Do They Really Know? Evaluating Large Language Models’ Ability to Reference and Cite Oncology Guidelines,MDT,,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,50
+nakka2025mammo,Mammo-SAE: Interpreting Breast Cancer Concept Learning with Sparse Autoencoders,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,5000
+das2024exposing,Exposing Vulnerabilities in Clinical LLMs Through Data Poisoning Attacks: Case Study in Breast Cancer,POC,,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,26692
+chen2025sam2med3d,SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation,TPA,,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,165
+andras2025artificial,Artificial Intelligence as a Potential Tool for Predicting Surgical Margin Status in Early Breast Cancer Using Mammographic Specimen Images,MAR,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,100
+zheng2025large,Large language models in breast cancer reconstruction: A framework for patient-specific recovery and predictive insights,REC,,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,500
+shiraishi2025performance,Performance of Artificial Intelligence Chatbots in Answering Clinical Questions on Japanese Practical Guidelines for Implant-based Breast Reconstruction,REC,,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,5
+gonzalez2025assessment,Assessment of Appearance-related Questions About Breast Reconstruction Generated by Chat Generative Pre-trained Transformer,REC,SDM,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1,0,26
+marcaccini2025enhancing,"Enhancing patient education in breast surgery: artificial intelligence-powered guidance for mastopexy, augmentation, reduction, and reconstruction",REC,SDM,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1,40
+lee2025study,A Study on Breast Cancer Patient Care Using Chatbot and Video Education for Radiation Therapy: A Randomized Controlled Trial,COM,,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,0,1,145
+chen2024chat,Chat-ePRO: Development and pilot study of an electronic patient-reported outcomes system based on ChatGPT,COM,FUP,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,256
+luo2024automated,Automated Extraction of Patient-Centered Outcomes After Breast Cancer Treatment: An Open-Source Large Language Model–Based Toolkit,COM,FUP,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0,6373
+miao2025exploring,"Exploring the use of large language models for classification, clinical interpretation, and treatment recommendation in breast tumor patient records",MDT,,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,45
+delourme2024leveraging,Leveraging Guideline-Based Clinical Decision Support Systems with Large Language Models: A Case Study with Breast Cancer,MDT,,0,0,1,1,1,0,0,0,0,1,0,1,1,0,1,0,0,230
+griewing2023challenging,Challenging ChatGPT 3.5 in Senology—An Assessment of Concordance with Breast Cancer Tumor Board Decision Making,MDT,SAS,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,20
+deng2024evaluation,"Evaluation of large language models in breast cancer clinical scenarios: a comparative analysis based on ChatGPT-3.5, ChatGPT-4.0, and Claude2",POC,COM,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,9
+pinto2025towards,Towards utilizing robust radiance fields for 3D reconstruction of breast aesthetics,REC,,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1
+allison2020breast3d,Breast3D: An augmented reality system for breast CT and MRI,SAS,MDT,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1
+montenegro2024disentangled,A disentangled approach to predict the aesthetic outcomes of breast cancer treatment,SDM,,1,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,7666
+santos2025anatomically,Anatomically and clinically informed deep generative model for breast surgery outcome prediction,SDM,,1,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1038
+chen2024conditional,Conditional probabilistic diffusion model driven synthetic radiogenomic applications in breast cancer,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,754
+raheem2025fame,FAME: A privacy-preserving dual-stage deep learning framework for breast ultrasound imaging using federated transfer and synthetic learning,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1193
+ling2025comprehensive,Comprehensive Benchmark Dataset for Pathological Lymph Node Metastasis in Breast Cancer Sections,AXL,,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1350
+lee2025natural,"Natural language processing for local, regional, and distant breast cancer relapse identification in pathology reports",FUP,,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,993
+choi2023developing,Developing prompts from large language model for extracting clinical information from pathology and ultrasound reports in breast cancer,ID,POC,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,0,2931
+oh2024llm,LLM-driven multimodal target volume contouring in radiation oncology,POC,,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,1391
+park2025generative,Generative artificial intelligence as a source of breast cancer information for patients: Proceed with caution,SDM,,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,20
+vo2024frozen,Frozen Large-Scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,TPA,,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,3000
+wang2024pathology,A pathology foundation model for cancer diagnosis and prognosis prediction,TPA,,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,60530
+zama2023clinical,Clinical Utility of Breast Ultrasound Images Synthesized by a Generative Adversarial Network,TPA,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1008
+rofena2025lesion,Lesion-Aware Generative Artificial Intelligence for Virtual Contrast-Enhanced Mammography in Breast Cancer,TPA,,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,204
+ccamur2025evaluating,Evaluating Large Language Models for imaging modality selection: Potential to reduce unnecessary contrast agent use and radiation exposure,ID,MDT,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,240
